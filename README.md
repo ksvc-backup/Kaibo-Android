@@ -6,7 +6,7 @@
 
 * 点击从AppStore下载：
 
-[![download](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-Android/images/logo.png)](https://appsto.re/cn/qJxaib.i)
+[![download](https://raw.githubusercontent.com/wiki/ksvc/Kaibo-Android/images/logo.png)](http://android.app.qq.com/myapp/detail.htm?apkName=com.ksyun.live.startlive)
 
 
 * 扫描二维码下载：
